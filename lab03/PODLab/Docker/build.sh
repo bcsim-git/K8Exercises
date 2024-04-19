@@ -1,1 +1,1 @@
-docker build . -t keyongenesis/web
+docker build . -t bcsim1/web
